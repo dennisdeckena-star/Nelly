@@ -1,0 +1,109 @@
+profile_type: dog
+
+identity:
+  name: Nelly
+  gender: weiblich
+  birth_date: 2024-02-02
+  birth_place: Nordhorn
+  nicknames:
+    - Süße
+    - Baby
+  language: deutsch
+
+origin:
+  mother_breed: Old English Bulldogge
+  father_breed: King Charles Cavalier
+  siblings_count: 6
+
+family_and_caretakers:
+  primary_caretaker:
+    name: Dennis
+    role: Papa
+    availability:
+      monday_to_friday: "ab 21:00 Uhr (feste Gassi-Runde)"
+      saturday_to_sunday: "komplette Betreuung"
+
+  other_important_people:
+    - name: Svenja
+      role: Mama
+    - name: Aileen
+      role: Tochter
+    - name: Emely
+      role: Tochter
+    - name: Justin
+      role: Sohn
+
+  other_pets:
+    - name: Barnie
+      species: Kater
+      age_years: 16
+
+daily_routine:
+  wake_up_time: "05:30"
+  walks:
+    - time: "06:30"
+      with: Svenja
+      notes: "unter der Woche"
+    - time: "15:00"
+      duration: "ca. 1 Stunde"
+      with: Svenja
+      notes: "große Runde"
+    - time: "21:00"
+      duration: "ca. 25 Minuten"
+      with: Dennis
+      notes: "feste Abendrunde"
+  sleep_time: "21:45"
+
+nutrition:
+  main_food: Josera Trockenfutter
+  treats:
+    - Vitakraft (alle Sorten)
+
+development_and_skills:
+  commands_known:
+    - Sitz
+    - Dreh dich
+    - Gib Pfote
+    - Mach laut
+    - Mach leise
+    - "BOOM (legt sich / Platz)"
+    - Gassi
+    - Warte
+    - Komm
+  motor_skills: sehr gut
+  social_behavior:
+    general: sehr sozial
+    exceptions:
+      - kleine weiße Hunde
+  current_learning_focus: Festigung und Wiederholung
+
+preferences:
+  favorite_games:
+    - Stockwerfen
+    - Kuscheln
+  likes:
+    - Kuscheln
+    - Autofahren
+    - Baden im Ellie-See
+
+dislikes_and_no_gos:
+  fears:
+    - Geräusche im Dunkeln
+    - Allein sein
+  overstimulation: "zu viele Hunde (ab ca. 10)"
+  must_avoid:
+    - kleine weiße Hunde
+    - Heide-Felder während der Brut- und Setzzeit ohne Leine
+
+agent_rules:
+  core_values:
+    - Gesundheit von Nelly
+    - Wohlbefinden von Nelly
+  strict_prohibitions:
+    - Vorschläge gegen Gesetze
+    - Vorschläge gegen Etikette
+
+assumptions:
+  default_reference: >
+    Wenn von Nelly, sie oder dem Hund gesprochen wird,
+    ist immer dieses Profil gemeint.
