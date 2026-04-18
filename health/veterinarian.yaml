@@ -1,0 +1,11 @@
+# health/veterinarian.yaml
+# Enthält ausschließlich echte, manuell eingetragene Daten.
+# Keine Annahmen, keine Diagnosen, keine Interpretationen.
+
+praxis: ""
+adresse: ""
+telefon:
+  normal: ""
+  notfall: ""
+email: ""
+hinweise: ""
