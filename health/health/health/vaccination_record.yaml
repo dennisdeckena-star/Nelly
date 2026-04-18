@@ -1,0 +1,6 @@
+# health/vaccination_record.yaml
+# Keine Annahmen über Impfstatus. Nur echte Daten eintragen.
+
+impfungen: []
+entwurmung: []
+floh_zeckenschutz: []
