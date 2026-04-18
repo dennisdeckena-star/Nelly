@@ -1,0 +1,11 @@
+# health/insurance.yaml
+# Keine erfundenen Daten. Nur echte Informationen dürfen eingetragen werden.
+
+anbieter: ""
+art: ""            # z.B. OP-Versicherung, Vollschutz – nur wenn bekannt
+versicherungsnummer: ""
+kontakt:
+  telefon: ""
+  email: ""
+  adresse: ""
+hinweise: ""
